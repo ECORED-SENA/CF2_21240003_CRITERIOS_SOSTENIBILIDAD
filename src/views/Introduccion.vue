@@ -5,10 +5,10 @@
   
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span
+        span(style="color: black")
           i.fas.fa-info
       h1 Introducción
-    
+    p Se da la bienvenida al componente formativo “La sostenibilidad: pilar estratégico”. Para comenzar el recorrido por el mismo, se debe visitar el recurso didáctico que se muestra a continuación:
 </template>
 
 <script>

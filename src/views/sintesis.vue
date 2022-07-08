@@ -3,15 +3,24 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .titulo-sexto.color-acento-contenido
+      h5 Título de sexto nivel, 16pt
+      span subtitulo
+
+    p.mb-5 Este componente busca orientar a los aprendices del curso complementario sobre “Estrategias para la incorporación de criterios de sostenibilidad”, respecto al proceso que debe tenerse en cuenta, y las metodologías de trabajo, que permitan optimizar el desarrollo de gestiones estratégicas de sostenibilidad.
+      br
+      br
+      |Es necesario tener claro las actividades que corresponden a este componente, en relación con los criterios de sostenibilidad de acuerdo tanto con el contexto productivo como con los elementos técnicos que involucra, y la normativa internacional, nacional y local, que rige el proceso.
+      br
+      br
+      |El contenido de este componente se relaciona de manera directa con los objetivos de desarrollo sostenible, los cuales trabajan propositivamente en la erradicación de la pobreza en todas sus formas en todo el mundo. Poner fin al hambre y conseguir la seguridad alimentaria y una mejor nutrición, y promover el bienestar para todos y todas en todas las edades. Una breve revisión de los temas vistos, se encuentran en el siguiente mapa conceptual.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
