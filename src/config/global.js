@@ -130,32 +130,172 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Metodologías para la gestión estratégica de la sostenibilidad',
+      referencia:
+        'GRI Secretariat.  (2020). Negocios Competitivos: caso empresa ancla - Telefónica Movistar Colombia [video]. Youtube.',
+      tipo: 'Vídeo',
+      link:
+        'https://www.youtube.com/watch?v=eWnkXuCHq5I&ab_channel=GRISecretariat',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
+      tema: 'Principios y criterios de sostenibilidad',
+      referencia:
+        'Austin, J. ., y  Reavis, C.  (2004). Starbucks and Conservation International. Harvard Business School Case 303-055.',
+      tipo: 'Estudio de caso',
       descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Principios y criterios de sostenibilidad',
+      referencia:
+        'Lobo, I., Reficco, E. y Rueda, A. (2012). Wok: ¿una cadena de restaurantes sostenible? . Centro de aprendizaje centrado en el estudiante, Universidad de los andes.',
+      tipo: 'Estudio de caso',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'Stichting Global Reporting Initiative (GRI). (2018). GRI 101: FUNDAMENTOS 2016. Documento respecto a los informes de sostenibilidad. Stichting Global Reporting Initiative (GRI).',
+      tipo: 'Documento',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      tema: 'Principios y criterios de sostenibilidad',
+      referencia:
+        'UNESCO  (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos [video]. Youtube.',
+      tipo: 'Vídeo',
+      descarga:
+        'https://www.youtube.com/watch?v=MCKH5xk8X-g&ab_channel=UNESCOenespa%C3%B1ol',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'PNUD (s.f.). ¿Que son los Objetivos de Desarrollo Sostenible? Programa de las Naciones Unidas para el Desarrollo.',
+      tipo: 'Página oficial del PNUD',
+      descarga: 'https://www.undp.org/es/sustainable-development-goals',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'SENA (2021). Agenda 2030. Informe sobre los ODS. [Video]. YouTube.',
+      tipo: 'Vídeo',
+      descarga:
+        'https://www.youtube.com/watch?v=vax-YFuICqc&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'Tecnológico de Monterrey. (2021). Análisis PESTEL para Definir el Plan de Acción de tu Empresa - Tec de Monterrey  [Video]. YouTube.',
+      tipo: 'Vídeo',
+      descarga:
+        'https://www.youtube.com/watch?v=R5VOC2A47ms&ab_channel=PosgradosyEducaci%C3%B3nContinua',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'SENA (2021). Análisis DOFA, explicación y detalle en español [Video]. YouTube.',
+      tipo: 'Objetivos de desarrollo sostenible',
+      descarga:
+        'https://www.youtube.com/watch?v=84fuGpQeYg0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Asunto relevante',
+      significado:
+        'Es un tema que influirá en las decisiones, acciones y desempeño de una organización o de sus grupos de interés.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Gestión de la estrategia',
+      significado:
+        'Es el modelo fundamental de despliegue de los recursos presentes y futuros, y las interacciones con el entorno que indican, cómo la organización alcanzará sus objetivos.',
+    },
+    {
+      termino: 'Medidas de compensación',
+      significado:
+        'Son las acciones dirigidas a resarcir y retribuir a las comunidades, las regiones, localidades y al entorno natural por los impactos o efectos negativos generados por un proyecto, obra o actividad, que no puedan ser evitados, corregidos o mitigados.',
+    },
+    {
+      termino: 'Medidas de corrección',
+      significado:
+        'Son las acciones dirigidas a recuperar, restaurar o reparar las condiciones del medio ambiente afectado por el proyecto, obra o actividad.',
+    },
+    {
+      termino: 'Medidas de mitigación',
+      significado:
+        'Son las acciones dirigidas a minimizar los impactos y efectos negativos de un proyecto, obra o actividad sobre el medio ambiente.',
+    },
+    {
+      termino: 'Medidas de prevención',
+      significado:
+        'Son las acciones encaminadas a evitar los impactos y efectos negativos que pueda generar un proyecto, obra o actividad sobre el medio ambiente.',
+    },
+    {
+      termino: 'Objetivos de desarrollo sostenible (ODS)',
+      significado:
+        'Los ODS, también conocidos como Objetivos Globales, fueron adoptados por las Naciones Unidas en 2015 como un llamado universal a la acción para poner fin a la pobreza, proteger el planeta y garantizar que para el 2030 todas las personas disfruten de paz y prosperidad. Los ODS proponen 17 objetivos integrados, ya que se reconoce que la acción en un área afectará los resultados en otras y que el desarrollo debe equilibrar la sostenibilidad social, económica y ambiental.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Autoridad Nacional de Licencias Ambientales ANLA. (2022). Glosario.  ANLA Autoridad Nacional de Licencias Ambientales.',
+      link: 'http://portal.anla.gov.co/subdireccion-evaluacion-y-seguimiento',
+    },
+    {
+      referencia:
+        'Comisión Económica para América Latina y el Caribe CEPAL. (2018). La Agenda 2030 y los Objetivos de Desarrollo Sostenible Una oportunidad para América Latina y el Caribe.',
+      link:
+        'https://repositorio.cepal.org/bitstream/handle/11362/40155/24/S1801141_es.pdf',
+    },
+    {
+      referencia:
+        'Globar Reporting Initiative GRI. (2022). Globar Reporting Initiative GRI.',
+      link: 'https://www.globalreporting.org/',
+    },
+    {
+      referencia: 'GlobeNewswire. (2022). GlobeNewswire.',
+      link:
+        'https://www.globenewswire.com/news-release/2021/03/24/2198225/0/es/SASB-publica-traducciones-al-espa%C3%B1ol-de-77-est%C3%A1ndares-del-sector.html',
+    },
+    {
+      referencia:
+        'Martínez Leucona, A., Flores Jiménez, I., Flores Jiménez, R., & Badillo Maldonado, M. (2020). Mecanismos de gestión para la inserción de la sostenibilidad en las empresas. Exploratoris Revista de la Realidad Global, 9(1), 8-15.',
+      link:
+        'https://static1.squarespace.com/static/55564587e4b0d1d3fb1eda6b/t/5ffdd8f02c6c4057e861d765/1610471664414/02+MartinezLecuona+PUE156+Exploratoris+V9N1+8-15.pdf',
+    },
+    {
+      referencia:
+        'Mirada Partners. (2022). ¿Quién es SASB? y ¿por qué le cae bien a los inversionistas? Mirada Partners.',
+      link:
+        'https://miranda-partners.com/es/quien-es-sasb-y-por-que-le-cae-bien-a-los-inversionistas/',
+    },
+    {
+      referencia:
+        'UNESCO  (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos [video]. Youtube.',
+      link:
+        'https://www.youtube.com/watch?v=MCKH5xk8X-g&ab_channel=UNESCOenespa%C3%B1ol',
+    },
+    {
+      referencia:
+        'Organización de los Estados Americanos. (2004). Métodos del planeamiento estratégico.',
+      link:
+        'https://www.oas.org/sap/publications/2004/fiapp/estrategias_politicas/doc/pbl_estrategias_004_04_spa.pdf',
+    },
+    {
+      referencia:
+        'Pacto Global Red Colombia. (2022). ¿Qué es Pacto Global? Pacto Global Red Colombia.',
+      link:
+        'https://www.pactoglobal-colombia.org/pacto-global-colombia/que-es-pacto-global-colombia.html',
+    },
+    {
+      referencia:
+        'The International Institute for Sustainable Development IISD. (2022). The International Institute for Sustainable Development IISD.',
+      link: 'https://www.iisd.org/',
+    },
+    {
+      referencia:
+        'Value Reporting Foundation SASB Standards. (2022). Value Reporting Foundation SASB Standards.',
+      link: 'https://www.sasb.org/',
     },
   ],
   creditos: {

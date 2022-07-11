@@ -56,6 +56,10 @@ export default {
 .carousel-f-edit
   .horizontal-scroll
     align-items: stretch !important
+  .slyder-f__btn
+    color: #707BA3
+    padding-right: 1rem
+    padding-left: 1rem
 .titulo-decorativo
   display: flex
   margin-bottom: 2rem
