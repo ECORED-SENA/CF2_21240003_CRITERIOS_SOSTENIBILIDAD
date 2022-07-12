@@ -326,7 +326,7 @@ export default {
     top: calc(100% - 74px)
     left: 0
     height: 100%
-    transition: all .3s linear
+    transition: top .3s linear !important
     .titulo-texto-img
       transition: all .3s linear
       font-weight: bold
@@ -335,6 +335,7 @@ export default {
     .container-data-img
       top: 0
       align-content: center
+      justify-content: flex-start
       height: 100%
     .titulo-texto-img
       text-align: left
