@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="470" viewBox="0 0 1030 470">
+  <defs>
+    <filter id="Trazado_588627" x="23.165" y="27.777" width="983.67" height="360.445" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_39307" x="45.164" y="80" width="208" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_39308" x="255.164" y="79" width="208" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_39309" x="465.164" y="79" width="208" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_39310" x="675.164" y="79" width="208" height="258" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_850457" data-name="Grupo 850457" transform="translate(-282.5 -2186)">
+    <path id="Trazado_588626" data-name="Trazado 588626" d="M20,0h990a20,20,0,0,1,20,20V396a20,20,0,0,1-20,20H20A20,20,0,0,1,0,396V20A20,20,0,0,1,20,0Z" transform="translate(282.5 2186)" fill="#ddf8fb"/>
+    <path id="Trazado_588628" data-name="Trazado 588628" d="M0,0H1030V44H0Z" transform="translate(282.5 2612)" fill="#ddf8fb"/>
+    <path id="Trazado_588629" data-name="Trazado 588629" d="M8.8,0H7.485L2.475-7.67V0H1.155V-9.953H2.475L7.5-2.249v-7.7H8.8Zm1.8-3.767a4.369,4.369,0,0,1,.427-1.955,3.187,3.187,0,0,1,1.189-1.34,3.238,3.238,0,0,1,1.74-.472A3.119,3.119,0,0,1,16.4-6.487a4.024,4.024,0,0,1,.933,2.782v.089a4.407,4.407,0,0,1-.414,1.938A3.14,3.14,0,0,1,15.74-.342a3.275,3.275,0,0,1-1.767.479A3.111,3.111,0,0,1,11.536-.909,4,4,0,0,1,10.6-3.678Zm1.271.15a3.164,3.164,0,0,0,.571,1.976A1.827,1.827,0,0,0,13.973-.9,1.816,1.816,0,0,0,15.5-1.651a3.46,3.46,0,0,0,.567-2.116,3.159,3.159,0,0,0-.578-1.972,1.836,1.836,0,0,0-1.535-.755,1.816,1.816,0,0,0-1.511.745A3.434,3.434,0,0,0,11.874-3.616Zm8.764-5.571V-7.4h1.381v.978H20.638v4.593a1.027,1.027,0,0,0,.185.667.777.777,0,0,0,.629.222,3.062,3.062,0,0,0,.6-.082V0a3.688,3.688,0,0,1-.971.136A1.575,1.575,0,0,1,19.8-.376a2.2,2.2,0,0,1-.431-1.456V-6.419H18.026V-7.4h1.347V-9.187ZM28.062,0a2.657,2.657,0,0,1-.178-.779,2.822,2.822,0,0,1-2.105.916,2.611,2.611,0,0,1-1.794-.619,2,2,0,0,1-.7-1.569,2.091,2.091,0,0,1,.878-1.794,4.142,4.142,0,0,1,2.471-.639h1.23v-.581a1.42,1.42,0,0,0-.4-1.056A1.593,1.593,0,0,0,26.3-6.515a1.844,1.844,0,0,0-1.135.342,1.007,1.007,0,0,0-.458.827H23.434a1.745,1.745,0,0,1,.393-1.07,2.683,2.683,0,0,1,1.066-.817,3.588,3.588,0,0,1,1.48-.3,2.924,2.924,0,0,1,2,.639,2.306,2.306,0,0,1,.752,1.76v3.4a4.162,4.162,0,0,0,.26,1.62V0Zm-2.1-.964a2.223,2.223,0,0,0,1.128-.308,1.861,1.861,0,0,0,.772-.8V-3.589h-.991q-2.324,0-2.324,1.36a1.151,1.151,0,0,0,.4.93A1.524,1.524,0,0,0,25.963-.964Zm5.175.3a.792.792,0,0,1,.195-.547.742.742,0,0,1,.584-.219.765.765,0,0,1,.591.219.776.776,0,0,1,.2.547.734.734,0,0,1-.2.526.778.778,0,0,1-.591.212.755.755,0,0,1-.584-.212A.748.748,0,0,1,31.138-.663ZM41.392-4.437a6.172,6.172,0,0,1-2.458-1.193,2.279,2.279,0,0,1-.769-1.747,2.408,2.408,0,0,1,.94-1.945,3.736,3.736,0,0,1,2.444-.769,4.078,4.078,0,0,1,1.829.4A3.007,3.007,0,0,1,44.622-8.6a2.8,2.8,0,0,1,.441,1.524H43.743A1.82,1.82,0,0,0,43.169-8.5a2.335,2.335,0,0,0-1.62-.518,2.391,2.391,0,0,0-1.514.428A1.428,1.428,0,0,0,39.491-7.4a1.285,1.285,0,0,0,.516,1.031,5.062,5.062,0,0,0,1.757.77,8.151,8.151,0,0,1,1.941.77,2.946,2.946,0,0,1,1.039.981,2.5,2.5,0,0,1,.338,1.319A2.326,2.326,0,0,1,44.14-.591a4.022,4.022,0,0,1-2.522.728A4.678,4.678,0,0,1,39.7-.256a3.221,3.221,0,0,1-1.371-1.077,2.627,2.627,0,0,1-.482-1.552H39.17a1.714,1.714,0,0,0,.667,1.425,2.806,2.806,0,0,0,1.781.523A2.58,2.58,0,0,0,43.21-1.36a1.377,1.377,0,0,0,.554-1.155,1.351,1.351,0,0,0-.513-1.131A5.911,5.911,0,0,0,41.392-4.437Zm11-.164H48.077v3.527h5.011V0H46.765V-9.953H53.02V-8.88H48.077v3.206h4.313ZM62.371,0H61.052L56.041-7.67V0H54.722V-9.953h1.319l5.024,7.7v-7.7h1.306ZM70.2-2.6h-4.17L65.092,0H63.738l3.8-9.953h1.148L72.5,0H71.148ZM66.425-3.678h3.384l-1.7-4.655Zm10.63-.362a10.569,10.569,0,0,1,.414-2.967A8.618,8.618,0,0,1,78.7-9.591a5.249,5.249,0,0,1,1.7-1.641l.26.834A5.444,5.444,0,0,0,79.027-8.06a10.135,10.135,0,0,0-.7,3.521l-.007.581a10.188,10.188,0,0,0,.964,4.58A5.47,5.47,0,0,0,80.664,2.44l-.26.772a5.418,5.418,0,0,1-1.736-1.7A9.5,9.5,0,0,1,77.055-4.04ZM88.279,0H81.758V-.909L85.2-4.737a8.185,8.185,0,0,0,1.056-1.412,2.356,2.356,0,0,0,.291-1.125,1.786,1.786,0,0,0-.472-1.278,1.649,1.649,0,0,0-1.258-.5,1.953,1.953,0,0,0-1.466.537,2.05,2.05,0,0,0-.523,1.494H81.566a2.936,2.936,0,0,1,.885-2.222,3.282,3.282,0,0,1,2.369-.848,3.153,3.153,0,0,1,2.194.728,2.483,2.483,0,0,1,.807,1.938q0,1.47-1.873,3.5L83.282-1.032h5ZM95.86-4.245a5.784,5.784,0,0,1-.759,3.3A2.7,2.7,0,0,1,92.729.137,2.718,2.718,0,0,1,90.371-.919a5.49,5.49,0,0,1-.793-3.155V-5.763a5.655,5.655,0,0,1,.759-3.261,2.719,2.719,0,0,1,2.379-1.066,2.744,2.744,0,0,1,2.365,1.029,5.458,5.458,0,0,1,.779,3.175ZM94.6-5.975a4.634,4.634,0,0,0-.451-2.341,1.553,1.553,0,0,0-1.429-.735,1.532,1.532,0,0,0-1.415.731,4.525,4.525,0,0,0-.458,2.249v2.023a4.708,4.708,0,0,0,.468,2.382A1.55,1.55,0,0,0,92.729-.9a1.529,1.529,0,0,0,1.391-.725A4.538,4.538,0,0,0,94.6-3.9ZM104,0H97.48V-.909l3.445-3.828a8.185,8.185,0,0,0,1.056-1.412,2.356,2.356,0,0,0,.291-1.125,1.786,1.786,0,0,0-.472-1.278,1.649,1.649,0,0,0-1.258-.5,1.953,1.953,0,0,0-1.466.537,2.05,2.05,0,0,0-.523,1.494H97.289a2.936,2.936,0,0,1,.885-2.222,3.282,3.282,0,0,1,2.369-.848,3.153,3.153,0,0,1,2.194.728,2.483,2.483,0,0,1,.807,1.938q0,1.47-1.873,3.5L99-1.032h5Zm7.861,0h-6.521V-.909l3.445-3.828a8.185,8.185,0,0,0,1.056-1.412,2.356,2.356,0,0,0,.291-1.125,1.786,1.786,0,0,0-.472-1.278,1.649,1.649,0,0,0-1.258-.5,1.953,1.953,0,0,0-1.466.537,2.05,2.05,0,0,0-.523,1.494H105.15a2.936,2.936,0,0,1,.885-2.222,3.282,3.282,0,0,1,2.369-.848,3.153,3.153,0,0,1,2.194.728,2.483,2.483,0,0,1,.807,1.938q0,1.47-1.873,3.5l-2.666,2.892h5Zm4.389-3.972a10.574,10.574,0,0,1-.4,2.922,8.641,8.641,0,0,1-1.224,2.581A5.361,5.361,0,0,1,112.9,3.213l-.267-.772a5.5,5.5,0,0,0,1.692-2.505,10.839,10.839,0,0,0,.653-3.77v-.219a11.253,11.253,0,0,0-.3-2.669,9.009,9.009,0,0,0-.837-2.211,5.108,5.108,0,0,0-1.207-1.524l.267-.772a5.34,5.34,0,0,1,1.719,1.668,8.66,8.66,0,0,1,1.224,2.577A10.818,10.818,0,0,1,116.252-3.972Zm1.976,3.309a.792.792,0,0,1,.195-.547.742.742,0,0,1,.584-.219.765.765,0,0,1,.591.219.776.776,0,0,1,.2.547.734.734,0,0,1-.2.526.778.778,0,0,1-.591.212.755.755,0,0,1-.584-.212A.748.748,0,0,1,118.228-.663Z" transform="translate(1161.5 2640)" fill="#12263f"/>
+    <g transform="matrix(1, 0, 0, 1, 282.5, 2186)" filter="url(#Trazado_588627)">
+      <path id="Trazado_588627-2" data-name="Trazado 588627" d="M211.2,12043.21V12017H-644v-274H211.2v-26.21a8,8,0,0,1,14.923-4.009l94.469,163.211a8,8,0,0,1,0,8.014l-94.469,163.209a7.752,7.752,0,0,1-6.832,4.007A7.94,7.94,0,0,1,211.2,12043.21Z" transform="translate(676.16 -11675)" fill="#fff"/>
+    </g>
+    <g id="Grupo_850233" data-name="Grupo 850233" transform="translate(-53.336 349)">
+      <g transform="matrix(1, 0, 0, 1, 335.84, 1837)" filter="url(#Rectángulo_39307)">
+        <rect id="Rectángulo_39307-2" data-name="Rectángulo 39307" width="190" height="240" rx="20" transform="translate(54.16 86)" fill="#9bbb59" opacity="0.5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 335.84, 1837)" filter="url(#Rectángulo_39308)">
+        <rect id="Rectángulo_39308-2" data-name="Rectángulo 39308" width="190" height="240" rx="20" transform="translate(264.16 85)" fill="#5bb27b" opacity="0.5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 335.84, 1837)" filter="url(#Rectángulo_39309)">
+        <rect id="Rectángulo_39309-2" data-name="Rectángulo 39309" width="190" height="240" rx="20" transform="translate(474.16 85)" fill="#5f8aa9" opacity="0.5"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 335.84, 1837)" filter="url(#Rectángulo_39310)">
+        <rect id="Rectángulo_39310-2" data-name="Rectángulo 39310" width="190" height="240" rx="20" transform="translate(684.16 85)" fill="#7f63a1" opacity="0.5"/>
+      </g>
+      <text id="Definir_claramente_lo_que_la_organización_quiere_lograr_a_largo_plazo." data-name="Definir claramente lo que la organización quiere lograr a largo plazo." transform="translate(411 1997)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Definir claramente lo </tspan><tspan x="0" y="41">que la organización </tspan><tspan x="0" y="65">quiere lograr a largo </tspan><tspan x="0" y="89">plazo.</tspan></text>
+      <text id="Tener_bien_definidas_la_misión_y_la_visión_así_como_los_objetivos_que_son_los_resultados_finales_medibles_y_que_están_alineados_a_la_misión_y_visión." data-name="Tener bien definidas la misión y la visión, así como los objetivos, que son los resultados finales, medibles y que están alineados a la misión y visión." transform="translate(618 1948)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Tener bien definidas </tspan><tspan x="0" y="41">la misión y la visión, </tspan><tspan x="0" y="65">así como los </tspan><tspan x="0" y="89">objetivos, que son los </tspan><tspan x="0" y="113">resultados finales, </tspan><tspan x="0" y="137">medibles y que están </tspan><tspan x="0" y="161">alineados a la misión </tspan><tspan x="0" y="185">y visión.</tspan></text>
+      <text id="Se_definen_las_estrategias_y_los_resultados_clave_que_se_esperan_y_hacia_donde_se_dirigen_los_recursos." data-name="Se definen las estrategias y los resultados clave que se esperan, y hacia donde se dirigen los recursos." transform="translate(829 1972)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se definen las </tspan><tspan x="0" y="41">estrategias y los </tspan><tspan x="0" y="65">resultados clave que </tspan><tspan x="0" y="89">se esperan, y hacia </tspan><tspan x="0" y="113">donde se dirigen los </tspan><tspan x="0" y="137">recursos.</tspan></text>
+      <text id="Definir_los_indicadores_de_eficiencia_estos_deben_ser_vigilados_y_evaluados_para_validar_su_cumplimiento." data-name="Definir los indicadores de eficiencia, estos deben ser vigilados y evaluados para validar su cumplimiento." transform="translate(1039 1960)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Definir los </tspan><tspan x="0" y="41">indicadores de </tspan><tspan x="0" y="65">eficiencia, estos </tspan><tspan x="0" y="89">deben ser vigilados y </tspan><tspan x="0" y="113">evaluados para </tspan><tspan x="0" y="137">validar su </tspan><tspan x="0" y="161">cumplimiento.</tspan></text>
+    </g>
+  </g>
+</svg>
