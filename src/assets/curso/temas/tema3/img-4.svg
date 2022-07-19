@@ -113,11 +113,13 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_850458" data-name="Grupo 850458" transform="translate(-282.5 -2954)">
-    <path id="Trazado_588630" data-name="Trazado 588630" d="M20,0h990a20,20,0,0,1,20,20V812a20,20,0,0,1-20,20H20A20,20,0,0,1,0,812V20A20,20,0,0,1,20,0Z" transform="translate(282.5 2954)" fill="#ddf8fb"/>
-    <g id="Grupo_850239" data-name="Grupo 850239" transform="translate(-2.5 253)">
-      <rect id="Rectángulo_39313" data-name="Rectángulo 39313" width="1030" height="44" transform="translate(285 3545)" fill="#ddf8fb"/>
-      <text id="Nota._SENA_2022_." data-name="Nota. SENA (2022)." transform="translate(1137 3573)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nota. SENA (2022).</tspan></text>
+  <g id="Grupo_850463" data-name="Grupo 850463" transform="translate(-282.5 -2954)">
+    <g id="Grupo_850462" data-name="Grupo 850462">
+      <path id="Trazado_588635" data-name="Trazado 588635" d="M20,0h990a20,20,0,0,1,20,20V812a20,20,0,0,1-20,20H20A20,20,0,0,1,0,812V20A20,20,0,0,1,20,0Z" transform="translate(282.5 2954)" fill="#ddf8fb"/>
+      <g id="Grupo_850239" data-name="Grupo 850239" transform="translate(-2.5 253)">
+        <rect id="Rectángulo_39313" data-name="Rectángulo 39313" width="1030" height="44" transform="translate(285 3545)" fill="#ddf8fb"/>
+        <text id="Nota._OEA_2004_." data-name="Nota. OEA (2004)." transform="translate(1137 3573)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nota. OEA (2004).</tspan></text>
+      </g>
     </g>
     <path id="Trazado_586955" data-name="Trazado 586955" d="M1119-9000v64h230v-64" transform="translate(-646.5 12022)" fill="none" stroke="#12263f" stroke-width="3" stroke-dasharray="6"/>
     <path id="Trazado_586956" data-name="Trazado 586956" d="M1244-8864v192h610v-198.307c0-73.6,0-147.693,0-147.693" transform="translate(-646.5 12022)" fill="none" stroke="#12263f" stroke-width="3" stroke-dasharray="6"/>
@@ -207,5 +209,6 @@
       <text id="Factores_Ecológicos" data-name="Factores Ecológicos" transform="translate(954 2971)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Factores Ecológicos</tspan></text>
       <text id="Factores_Políticos" data-name="Factores Políticos" transform="translate(961 2831)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Factores Políticos</tspan></text>
     </g>
+    <path id="Trazado_588634" data-name="Trazado 588634" d="M475,2961.99h0v28.4" transform="translate(115.5 124.01)" fill="none" stroke="#12263f" stroke-width="3" stroke-dasharray="6"/>
   </g>
 </svg>

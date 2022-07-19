@@ -13,7 +13,7 @@
       img.col-lg-5.col-xl-4.m-auto(src="@/assets/curso/temas/tema2/img-1.jpg" data-aos="fade-right")
       .col-lg-7.col-xl-8.ps-lg-3(data-aos="fade-left")
         p.mb-3.p-3(style="background-color: #DDF8FB") Como consecuencia se han generado cambios irreversibles en los sistemas biofísicos y en los paradigmas sociales de los mercados, los cuales influyen de manera permanente y definitiva en los negocios y en los procesos de desarrollo. Cambios que se acentuaron por la crisis sanitaria y económica generada por la pandemia COVID19, haciendo aún más evidente la necesidad de repensar el desarrollo de los sistemas empresariales, hacia modelos sostenibles.
-        p Estas tendencias se reflejan en los Objetivos del Desarrollo Sostenible (ODS), como un camino en el cual el desarrollo económico no debe reñir con la prosperidad de las comunidades y los territorios y el uso racional de los recursos naturales. Este acuerdo involucra a todos los actores de la sociedad en el desarrollo de políticas públicas. En el siguiente recurso educativo se podrá revisar al respecto.
+        p.fw-bold Estas tendencias se reflejan en los Objetivos del Desarrollo Sostenible (ODS), como un camino en el cual el desarrollo económico no debe reñir con la prosperidad de las comunidades y los territorios y el uso racional de los recursos naturales. Este acuerdo involucra a todos los actores de la sociedad en el desarrollo de políticas públicas. En el siguiente recurso educativo se podrá revisar al respecto.
     
     TabsC.color-secundario.edit-pestanas.mb-5(data-aos="fade-left")
       .py-3.py-md-4(titulo="Los ODS")
@@ -33,7 +33,7 @@
           .col-md-7.col-xl-8.mb-4.mb-md-0.order-2.order-md-1
             h4 Principios de sostenibilidad
             p.mb-4.col-xl-10 Existen amplios conocimientos y literatura respecto a los principios de sostenibilidad, sin embargo, existe una organización que desde 1990 cuenta con una completa colección de principios de varias fuentes llamado el Instituto Internacional para el Desarrollo Sostenible (IISD), dentro de las temáticas que abordan se encuentran:
-            .d-flex.flex-wrap
+            .d-flex.flex-wrap.align-items-center
               .col-lg-6
                 ul.lista-ul--color
                   li 
@@ -80,9 +80,10 @@
                   li
                     img(src="@/assets/curso/temas/tema2/check.svg" style="max-width: 14px").me-3
                     | Objetivos de desarrollo sostenible, entre otros.
-          .col-md-5.col-xl-4.order-1.order-md-2.mb-4.mb-md-0
+          .col-md-5.col-xl-4.order-1.order-md-2.mb-4.mb-md-0.d-flex.flex-wrap.align-content-center
             figure
               img(src='@/assets/curso/temas/tema2/img-3.svg')
+            p.text-center Apoyamos los Objetivos de Desarrollo Sostenible
 
     .d-flex.flex-wrap.mb-5
       .col-xl-5.pe-xl-4.order-2.order-xl-1.d-flex.align-items-stretch(data-aos="fade-right")
@@ -96,32 +97,46 @@
         .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
           img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
         .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
-          h4.text-center.pt-4 Principio de precaución 
+          h4.text-center.pt-4 1. Principio de precaución 
           p.text-center Es una guía para prevenir posibles daños al ambiente y la salud de las personas causados por las actividades del hombre.
 
       .d-flex.flex-wrap.h-100
         .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
           img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
         .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
-          h4.text-center.pt-4 Los principios de la Carta de la Tierra
+          h4.text-center.pt-4 2. Los principios de la Carta de la Tierra
           p.text-center Promueve el respeto y cuidado por la vida, la integridad ecológica, la justicia económica y social, y la democracia, la eliminación de la violencia y la paz.
       
       .d-flex.flex-wrap.h-100
         .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
           img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
         .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
-          h4.text-center.pt-4 Las condiciones del sistema del Paso Natural 
+          h4.text-center.pt-4 3. Las condiciones del sistema del Paso Natural 
           p.text-center Define los fundamentos básicos para mantener los procesos ecológicos esenciales y entender la importancia de satisfacer las necesidades humanas a nivel global como elementos integrales y esenciales de la sostenibilidad.
       
       .d-flex.flex-wrap.h-100
         .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
           img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
         .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
-          h4.text-center.pt-4 Las condiciones del sistema del Paso Natural 
-          p.text-center Define los fundamentos básicos para mantener los procesos ecológicos esenciales y entender la importancia de satisfacer las necesidades humanas a nivel global como elementos integrales y esenciales de la sostenibilidad.
+          h4.text-center.pt-4 4. Los principios de Daly
+          p.text-center Establecen las capacidades regenerativas y asimilativas del capital natural y la parte proporcional de agotamiento de recursos no renovables.
+      
+      .d-flex.flex-wrap.h-100
+        .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
+          img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
+        .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
+          h4.text-center.pt-4 5. Los principios de Bellagio
+          p.text-center Sirven como guía para diversos grupos del sector privado y público puedan comenzar y mejorar el proceso y las actividades de evaluación de la sostenibilidad, el diseño y la selección de indicadores y la interpretación y comunicación de resultados.
+      
+      .d-flex.flex-wrap.h-100
+        .w-100.mx-auto(style="margin-bottom: -45px; z-index: 1; max-width: 108px")
+          img(src='@/assets/curso/temas/tema2/img-5.svg' alt='imagen slider T2 1')
+        .tarjeta.color-acento-botones.pt-5.p-4(style="background-color: #C3E2FD; height: calc(100% - 80px)")
+          h4.text-center.pt-4 6. Los principios de Ahwahnee
+          p.text-center Sirven de guía para la planificación y el desarrollo de comunidades urbanas y suburbanas de manera que satisfagan efectivamente las necesidades de aquellas personas que viven y trabajan en ellas.
 
     .titulo-decorativo.position-relative(style="z-index: 1" data-aos="fade-right")
-      h4 Pacto global
+      h4 Objetivos de desarrollo sostenible.
 
     p.mb-5(data-aos="fade-right") Dentro de los principios y criterios de la sostenibilidad se encuentra la Agenda 2030, la cual representa el llamado universal a la acción para poner fin a la pobreza, proteger el planeta y garantizar que para el 2030 todas las personas disfruten de paz y prosperidad, este se encuentra fundamentado por los 17 objetivos y 169 metas de desarrollo sostenible (ODS) integrados ya que se reconoce que la acción en un área afectará los resultados en otras, al tener una visión ambiciosa del desarrollo sostenible e integra sus dimensiones económica social y ambiental.
 
@@ -129,6 +144,7 @@
       .mb-5.d-flex.flex-wrap.flex-md-nowrap.w-100.align-items-center.p-3(style="border-radius: 20px; background-color: #FFEAC5" data-aos="fade-right")
         img.mx-auto.mb-4.mb-md-0.me-md-4(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 100px")
         p.mb-0 La Agenda 2030 es una agenda, que busca no dejar a nadie atrás en el ámbito de desarrollo, respetando a las comunidades y propendiendo por un ambiente sano. Este compromiso lo han tomado tanto los países desarrollados como los que están en desarrollo como un marco de acción para la toma de decisiones.
+      p.mb-5 A continuación, se podrá visualizar la interrelación entre los ODS y los tres componentes básicos de la sostenibilidad, ver la figura 7.
       .d-block.mb-4
         h5.mb-0 Figura 7
         span #[em Interrelación entre los ODS y los tres componentes básicos de la sostenibilidad]

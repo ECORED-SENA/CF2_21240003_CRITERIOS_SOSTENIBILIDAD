@@ -7,7 +7,7 @@
         span(style="color: black") 3
       h1 Herramientas de planificación estratégica
 
-    p.mb-5(data-aos="fade-right") La planeación estratégica es una herramienta que se utiliza en las organizaciones para predecir el futuro o los escenarios a los cuales se puede enfrentar estas. Para realizar una planificación estratégica se pueden contemplar ocho (8) pasos los cuales son:
+    p.mb-5(data-aos="fade-right") En el siguiente recurso educativo, se encontrará la descripción de los pasos de ejecución de una planeación estratégica.
 
     .d-flex.flex-wrap.mb-5
       .col-xl-6.order-2.order-xl-2.p-3.p-md-4.px-xl-5(style="background-color: #DDF8FB" data-aos="fade-right")
@@ -45,48 +45,48 @@
         img.mx-auto.mx-md-0.mb-4.mb-md-0(src="@/assets/curso/temas/tema3/pasos-1.svg" style="max-width: 85px")
         .ps-md-4
           h4.mb-0 Misión:
-          p.mb-0 Misión: es el motivo o la razón de ser de la organización, empresa o institución.
+          p.mb-0 Es el motivo o la razón de ser de la organización, empresa o institución.
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end.justify-content-end(data-aos="fade-right")
         .pe-4.me-auto.text-start.order-2.order-md-1
           h4.mb-0 Visión:
-          p.mb-0 Visión: se refiere a la imagen que la organización plantea a largo plazo sobre como espera que sea el futuro.
+          p.mb-0 Se refiere a la imagen que la organización plantea a largo plazo sobre como espera que sea el futuro.
         img.mx-auto.mx-md-0.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema3/pasos-2.svg" style="max-width: 85px")
       
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end(data-aos="fade-left")
         img.mx-auto.mx-md-0.mb-4.mb-md-0(src="@/assets/curso/temas/tema3/pasos-3.svg" style="max-width: 85px")
         .ps-md-4
           h4.mb-0 Análisis externo: 
-          p.mb-0 Análisis externo: análisis del entorno que la organización no puede controlar pero influyen en la organización. 
+          p.mb-0 Análisis del entorno que la organización no puede controlar pero influyen en la organización. 
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end.justify-content-end(data-aos="fade-right")
         .pe-4.me-auto.text-start.order-2.order-md-1
           h4.mb-0 Análisis interno: 
-          p.mb-0 Análisis interno: análisis del entorno que la organización puede controlar.
+          p.mb-0 Análisis del entorno que la organización puede controlar.
         img.mx-auto.mx-md-0.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema3/pasos-4.svg" style="max-width: 85px")
       
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end(data-aos="fade-left")
         img.mx-auto.mx-md-0.mb-4.mb-md-0(src="@/assets/curso/temas/tema3/pasos-5.svg" style="max-width: 85px")
         .ps-md-4
           h4.mb-0 Objetivos estratégicos: 
-          p.mb-0 Objetivos estratégicos: estos deben ser medibles y alcanzables , basados en el análisis de factores internos y externos de la organización y de las fortalezas y oportunidades.
+          p.mb-0 Estos deben ser medibles y alcanzables , basados en el análisis de factores internos y externos de la organización y de las fortalezas y oportunidades.
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end.justify-content-end(data-aos="fade-right")
         .pe-4.me-auto.text-start.order-2.order-md-1
           h4.mb-0 Estrategias: 
-          p.mb-0 Estrategias: se pueden diseñar las estrategias necesarias que permitan el cumplimiento de los objetivos establecidos.
+          p.mb-0 Se pueden diseñar las estrategias necesarias que permitan el cumplimiento de los objetivos establecidos.
         img.mx-auto.mx-md-0.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema3/pasos-6.svg" style="max-width: 85px")
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end(data-aos="fade-left")
         img.mx-auto.mx-md-0.mb-4.mb-md-0(src="@/assets/curso/temas/tema3/pasos-7.svg" style="max-width: 85px")
         .ps-md-4
           h4.mb-0 Ejecución de las estrategias: 
-          p.mb-0 Ejecución de las estrategias: la alta dirección deberá establecer los planes de acción y las áreas responsables para su ejecución, asimismo estas deberán involucrar a los demás departamentos de la organización para cumplir con los objetivos propuestos.
+          p.mb-0 La alta dirección deberá establecer los planes de acción y las áreas responsables para su ejecución, asimismo estas deberán involucrar a los demás departamentos de la organización para cumplir con los objetivos propuestos.
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end.justify-content-end(data-aos="fade-right")
         .pe-4.me-auto.text-start.order-2.order-md-1
           h4.mb-0 Evaluación del cumplimiento de los objetivos: 
-          p.mb-0 Evaluación del cumplimiento de los objetivos: la evaluación es una de las partes más importantes ya que aquí es donde se recolectan datos y se cuantifica los porcentajes de cumplimiento alcanzados en cada objetivo propuesto.
+          p.mb-0 La evaluación es una de las partes más importantes ya que aquí es donde se recolectan datos y se cuantifica los porcentajes de cumplimiento alcanzados en cada objetivo propuesto.
 
         img.mx-auto.mx-md-0.mb-4.mb-md-0.order-1.order-md-2(src="@/assets/curso/temas/tema3/pasos-8.svg" style="max-width: 85px")
 
@@ -148,10 +148,7 @@
     .d-flex.flex-wrap.flex-wrap.flex-xl-nowrap.p-3.p-md-4.mb-5(style="border-radius: 20px; background-color: #E8E8E8")
       .col-12.col-lg-6.order-2.order-lg-1(data-aos="fade-right")
         h4.mb-4 2. Análisis DOFA
-        p.mb-4 Esta estrategia permite analizar factores económicos, sociales, ambientales, tecnológicos y jurídicos. Enseguida encontrará las instrucciones prácticas para realizar este análisis. 
-          br
-          br
-          | Permite analizar las fortalezas, oportunidades, debilidades y amenazas de una organización.        
+        p.mb-4 Esta metodología permite realizar el diagnóstico y conocer la situación real en la que se encuentra la organización para así poder planificar estrategias y tomar decisiones informadas de cuál es la mejor alternativa que le conviene a la organización.
       .col-12.col-lg-6.order-1.order-lg-2(data-aos="fade-left")
         img.m-auto.mb-4.mb-lg-0(src="@/assets/curso/temas/tema3/img-6.svg" style="max-width: 468px")
     

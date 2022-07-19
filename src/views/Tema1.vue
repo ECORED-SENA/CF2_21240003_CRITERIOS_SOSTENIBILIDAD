@@ -31,22 +31,22 @@
               | A través de estos, se puede lograr transformar la concepción que los aspectos ambientales y sociales son fuente para generar valor económico y rentabilidad a la organización y no simples gastos en pro de adquirir legitimidad y buen nombre.
               br
               br
-              | Estos mecanismos, son muy importantes para entender el modelo de negocio, la forma como la organización estructura sus proyectos y para vislumbrar como se integra la sostenibilidad en el ADN de la organización, pues es allí, donde se logran identificar oportunidades que no solo generen valor social o ambiental, sino que realmente aporten de manera real a la operación y generen valor económico tangible para que el retorno pueda aportar al logro de los objetivos estratégicos.
+              | Estos mecanismos, son muy importantes para entender el modelo de negocio, la forma cómo la organización estructura sus proyectos y para vislumbrar como se integra la sostenibilidad en el ADN de la organización, pues es allí, donde se logran identificar oportunidades que no solo generen valor social o ambiental, sino que realmente aporten de manera real a la operación y generen valor económico tangible para que el retorno pueda aportar al logro de los objetivos estratégicos.
 
     .d-flex.flex-wrap.mb-4
       img.col-xl-5.mx-auto.mb-4.mb-xl-0.mx-auto.pe-xl-3(src="@/assets/curso/temas/tema1/img-3.jpg" data-aos="fade-right" style="max-width: 505px")
       .cajon.color-secundario.p-4.col-xl-7.d-flex.align-items-center.order-2.order-lg-1(data-aos="fade-left")
-        p Algunos de estos mecanismos son normas, directrices o iniciativas que aseguran que la gestión de la sostenibilidad sea controlada y evaluada dentro de un mismo nivel de exigencia debido a que establecen un conjunto de indicadores que varían en función de los procesos desarrollados en la organización, por ejemplo, en el entorno de la seguridad y salud en el trabajo se encuentra la ISO 45001:2018, en relación con la calidad la ISO 9001:2015, de la gestión energética la ISO 45001:2011, de la responsabilidad social empresarial la ISO 26000:2010, el observatorio de responsabilidad social RSE o la integración de varios entornos como la Iniciativa de Reporte Global (Global Reporting Initiative – GRI). 
+        p Algunos de estos mecanismos son normas, directrices o iniciativas que aseguran que la gestión de la sostenibilidad sea controlada y evaluada dentro de un mismo nivel de exigencia debido a que establecen un conjunto de indicadores que varían en función de los procesos desarrollados en la organización, por ejemplo, en el entorno de la seguridad y salud en el trabajo se encuentra la ISO 45001:2018, en relación con la calidad la ISO 9001:2015, de la gestión energética la ISO 45001:2011, de la responsabilidad social empresarial la ISO 26000:2010, el observatorio de responsabilidad social RSE o la integración de varios entornos como la Iniciativa de Reporte Global (#[em Global Reporting Initiative – GRI]). 
 
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_1 1.1 Normas de Accountability (AA1000)
+      h2#t_1_1 1.1 Normas de #[em Accountability] (AA1000)
 
     .d-flex.flex-wrap.mb-5.position-relative(style="z-index: 1")
       img.col-xl-6.pe-xl-3.mb-4.mb-xl-0.mx-auto(src="@/assets/curso/temas/tema1/img-4.svg" data-aos="fade-right" style="max-width: 610px")
       .col-xl-6.d-flex.align-items-center.p-3.p-md-5(style="background-color: #FFB840" data-aos="fade-left")
-        p Las normas AA1000 fueron creadas por el Instituto Accountability, que globalmente es reconocido como una firma consultora y creadora de estándares que aplican a las empresas, entes gubernamentales y organizaciones del tercer sector, con el fin de promover la mejora del desempeño a largo plazo y prácticas comerciales responsables. 
+        p Las normas AA1000 fueron creadas por el Instituto #[em Accountability], que globalmente es reconocido como una firma consultora y creadora de estándares que aplican a las empresas, entes gubernamentales y organizaciones del tercer sector, con el fin de promover la mejora del desempeño a largo plazo y prácticas comerciales responsables. 
 
     .titulo-decorativo.position-relative(style="z-index: 1" data-aos="fade-right")
       h4 Se componen de principios y estándares
@@ -63,6 +63,9 @@
       img.d-flex.d-md-none.mb-5(src="@/assets/curso/temas/tema1/img-5-movil.svg" data-aos="fade-left")
     p(data-aos="fade-right") Su adopción solicita que la organización tenga un activo compromiso con sus partes interesadas, reconozca y entienda plenamente los aspectos de sostenibilidad que podrán tener un impacto sobre su desempeño, y haga uso de este conocimiento para establecer objetivos de actuación y estrategias de negocio responsables.
     p.mb-5(data-aos="fade-right") La norma AA1000 cuenta con cuatro (4) principios los cuales se puede consultar en el siguiente recurso educativo:
+
+    .titulo-decorativo.position-relative(style="z-index: 1" data-aos="fade-right")
+      h4 Principios de la AA1000
 
     .d-flex.flex-wrap.mb-5
       .col-12.col-md-6.col-lg-4.col-xl-3.d-flex.flex-wrap.justify-content-center.px-md-2.mx-auto(style="margin-bottom: 1rem")
@@ -106,7 +109,7 @@
 
     .titulo-decorativo.position-relative(style="z-index: 1" data-aos="fade-right")
       h4 La organización debe:
-    p.mb-5(data-aos="fade-right") En 2019, Accountability ha identificado siete tendencias clave para ayudar a que las empresas e individuos afronten desafíos empresariales sostenibles y guíen a las organizaciones hacia la gestión efectiva de su desempeño e impacto, como se puede apreciar a continuación: 
+    p.mb-5(data-aos="fade-right") En 2019, #[em Accountability] ha identificado siete tendencias clave para ayudar a que las empresas e individuos afronten desafíos empresariales sostenibles y guíen a las organizaciones hacia la gestión efectiva de su desempeño e impacto, como se puede apreciar a continuación: 
 
     SlyderF.mb-5.carousel-f-edit(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #F3F3F5")
@@ -114,14 +117,14 @@
           .col-6
             img(src='@/assets/curso/temas/tema1/slide-1.svg' alt='imagen slider 1')
         h2.text-center Paso No.1
-        p.text-center Colaboración para la acción climática
+        p.text-center Colaboración para la acción climática.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #F3F3F5")
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema1/slide-2.svg' alt='imagen slider 2')
         h2.text-center Paso No.2
-        p.text-center Contribuciones más inteligentes a los ODS
+        p.text-center Contribuciones más inteligentes a los ODS.
       
       .tarjeta.color-acento-botones.p-4.h-100(style="background-color: #F3F3F5")
         .row.justify-content-center.mb-3
@@ -177,21 +180,21 @@
       img.d-flex.d-md-none(src="@/assets/curso/temas/tema1/img-9-movil.svg" data-aos="fade-right")
 
     .d-flex.flex-wrap.mb-5.align-items-center
-      p.col-xl-6.pe-xl-4(data-aos="fade-right") La norma enfatiza el acatamiento a los asuntos de importancia de los grupos de interés, al principio de legalidad, a la normativa internacional de comportamiento y a los derechos humanos y es compatible con las declaraciones de las Naciones Unidas (ONU), la Organización Internacional del Trabajo (OIT) y la Organización para la Cooperación y el Desarrollo Económico (OCDE), además del Pacto Mundial. 
+      p.col-xl-6.pe-xl-4.order-2.order-xl-1(data-aos="fade-right") La norma enfatiza el acatamiento a los asuntos de importancia de los grupos de interés, al principio de legalidad, a la normativa internacional de comportamiento y a los derechos humanos y es compatible con las declaraciones de las Naciones Unidas (ONU), la Organización Internacional del Trabajo (OIT) y la Organización para la Cooperación y el Desarrollo Económico (OCDE), además del Pacto Mundial. 
         br
         br
-        |La organización Global Reporting Initiative (GRI), a través de un informe indicó las directrices que se pueden apropiar para complementar la norma ISO 26000 en la elaboración del reporte. Cabe denotar que los indicadores de los estándares GRI se aplican para reportar las temáticas trabajadas en la ISO 26000. Asimismo, Accountability también ha informado su interés en diseñar una guía aclaratoria de la compatibilidad entre las normas AA1000 e ISO 26000. 
-      img(src="@/assets/curso/temas/tema1/img-10.jpg" data-aos="fade-left" style="max-width: 610px")
+        |La organización #[em Global Reporting Initiative (GRI)], a través de un informe indicó las directrices que se pueden apropiar para complementar la norma ISO 26000 en la elaboración del reporte. Cabe denotar que los indicadores de los estándares GRI se aplican para reportar las temáticas trabajadas en la ISO 26000. Asimismo, #[em Accountability] también ha informado su interés en diseñar una guía aclaratoria de la compatibilidad entre las normas AA1000 e ISO 26000. 
+      img.col-xl-6.order-1.order-xl-2.mx-auto.mb-4.mb-xl-0(src="@/assets/curso/temas/tema1/img-10.jpg" data-aos="fade-left" style="max-width: 610px")
     
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_3 1.3 Global Reporting Initiative (GRI)
+      h2#t_1_3 1.3 #[em Global Reporting Initiative (GRI)]
 
     .d-flex.flex-wrap.mb-5
       img.mx-auto.mb-4.mb-xl-0(src="@/assets/curso/temas/tema1/img-11.svg" data-aos="fade-right" style="max-width: 295px")
       .col-xl-9.ps-xl-4(data-aos="fade-left")
-        p.mb-4 Los estándares GRI nacieron en Boston en el año de 1997, fueron creados por Global Reporting Initiative de la mano de las ONG CERES y Tellus Institute en asociación con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).
+        p.mb-4 Los estándares GRI nacieron en Boston en el año de 1997, fueron creados por #[em Global Reporting Initiative] de la mano de las ONG CERES y Tellus Institute en asociación con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA).
         .container-text-decorador-2.cajon.color-secundario.p-4.d-flex.align-items-center.order-2.order-lg-1(style="background-color: #D0D0D5 !important")
           p La organización nace por causa de un evento ambiental catastrófico ocurrido en 1989, donde el buque petrolero de Exxon Valdez encalló en Alaska y derramó en el mar más de 37.000 toneladas de crudo, que afectaron a 2.000 kilómetros de costa. La catástrofe potenció el derecho ambiental y desarrolló en la sociedad la exigencia sobre las compañías para tener una mayor transparencia en asuntos relacionados con sostenibilidad.
     
@@ -200,7 +203,7 @@
     .col-xl-10.mx-auto.mb-5
       .d-block.mb-4
         h5.mb-0 Figura 3
-        span #[em Figura 3 Composición del] #[b GRI]
+        span #[em Composición del] #[b GRI]
       img.d-none.d-md-flex(src="@/assets/curso/temas/tema1/img-12.svg" data-aos="fade-right")
       img.d-flex.d-md-none(src="@/assets/curso/temas/tema1/img-12-movil.svg" data-aos="fade-right")
     
@@ -244,7 +247,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_1_5 1.5 Sustainability Accounting Standards Board (SASB)
+      h2#t_1_5 1.5 #[em Sustainability Accounting Standards Board] (SASB)
 
     .d-flex.flex-wrap.mb-5
       img.col-lg-4.col-xl-3.m-auto.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/img-17.jpg" data-aos="fade-right" style="max-width: 295px")
@@ -263,7 +266,7 @@
     AcordionA.acordeon-edit.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row.col-md-11.mx-auto(titulo="¿Qué es el mapa de materialidad de SASB?")
         .col-md-7.mb-4.mb-md-0
-          p “The SASB Materiality Map” (el mapa de materialidad), indica los temas materiales más relevantes para cada tipo de organización. 
+          p “#[em The SASB Materiality Map]” (el mapa de materialidad), indica los temas materiales más relevantes para cada tipo de organización. 
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/acordeon-2.png')
