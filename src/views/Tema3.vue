@@ -7,7 +7,7 @@
         span(style="color: black") 3
       h1 Herramientas de planificación estratégica
 
-    p.mb-5(data-aos="fade-right") En el siguiente recurso educativo, se encontrará la descripción de los pasos de ejecución de una planeación estratégica.
+    p.mb-5(data-aos="fade-right") La planeación estratégica es una herramienta que se utiliza en las organizaciones para predecir el futuro o los escenarios a los cuales se puede enfrentar estas. Para realizar una planificación estratégica se pueden contemplar ocho (8) pasos los cuales son:
 
     .d-flex.flex-wrap.mb-5
       .col-xl-6.order-2.order-xl-2.p-3.p-md-4.px-xl-5(style="background-color: #DDF8FB" data-aos="fade-right")
@@ -38,7 +38,7 @@
             | Evaluación del cumplimiento de los objetivos propuestos.
       img.col-xl-6.m-auto.order-1.order-xl-2.mb-4.mb-xl-auto.ps-xl-4(src="@/assets/curso/temas/tema3/img-2.jpg" data-aos="fade-left" style="max-width: 610px")
 
-    p.mb-5(data-aos="fade-right") La planeación estratégica es una herramienta que se utiliza en las organizaciones para predecir el futuro o los escenarios a los cuales se puede enfrentar estas. Para realizar una planificación estratégica se pueden contemplar ocho (8) pasos los cuales son:
+    p.mb-5(data-aos="fade-right") En el siguiente recurso educativo, se encontrará la descripción de los pasos de ejecución de una planeación estratégica.
 
     PasosA.color-secundario.mb-5(tipo="n")
       .d-flex.flex-wrap.align-items-end(data-aos="fade-left")

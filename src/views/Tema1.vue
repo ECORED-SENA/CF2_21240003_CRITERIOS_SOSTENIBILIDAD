@@ -10,7 +10,7 @@
     p.mb-5(data-aos="fade-left") En el contexto de la sostenibilidad la gestión estratégica puede entenderse como el modelo a través del cual se indican y detallan los recursos presentes y futuros, y las interrelaciones con el entorno (interno y externo) que indican, cómo la organización podrá alcanzar sus objetivos, en el siguiente recurso educativo, se podrá observar en detalle el proceso de gestión:
     
     .titulo-decorativo(data-aos="fade-right")
-      h4 Mecanismos de Gestion
+      h4 Mecanismos de Gestión
 
     .d-flex.flex-wrap.col-lg-11.col-xl-11.mx-auto.mb-5
       .col-xl-6.px-md-3.mx-auto.mb-5.mb-xl-0
@@ -271,21 +271,21 @@
           figure
             img(src='@/assets/curso/temas/tema1/acordeon-2.png')
       
-      .row.col-md-11.mx-auto(titulo="¿Para que sirve?")
+      .row.col-md-11.mx-auto(titulo="¿Para quá sirve?")
         .col-md-7.mb-4.mb-md-0
-          p Permite a las organizaciones identificar que temas deberían trabajar y reportar, de igual forma les permite a los grupos de interés en particular a los inversionistas reconocer los focos de atención en donde deberían prestar mayor atención cuando analizan por tipo de organización o por la empresa en particular.
+          p Permite a las organizaciones identificar qué temas deberían trabajar y reportar, de igual forma les permite a los grupos de interés en particular a los inversionistas reconocer los focos de atención en donde deberían prestar mayor atención cuando analizan por tipo de organización o por la empresa en particular.
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/acordeon-3.png')
       
-      .row.col-md-11.mx-auto(titulo="¿En que consiste?")
+      .row.col-md-11.mx-auto(titulo="¿En qué consiste?")
         .col-md-7.mb-4.mb-md-0
           p Este mapa está conformado por 26 enfoques de sostenibilidad priorizados en 5 dimensiones: capital social, capital humano, modelo de negocio e innovación, liderazgo y gobierno corporativo y medio ambiente. Estos 26 enfoques fueron seleccionados considerando los temas de mayor impacto financiero que pueden generar las organizaciones.
         .col-md-5
           figure
             img(src='@/assets/curso/temas/tema1/acordeon-4.png')
 
-      .row.col-md-11.mx-auto(titulo="¿En que se diferencia SASB vs GRI?")
+      .row.col-md-11.mx-auto(titulo="¿En qué se diferencia SASB vs GRI?")
         .col-md-7.mb-4.mb-md-0
           p La diferencia entre #[b SASB y GRI] es el enfoque financiero ya que #[b SASB está más orientado a los requerimientos y expectativas de los inversionistas, mientras que los estándares GRI son más generales y pretenden atender las necesidades de información de todos los grupos de interés], no de uno en particular. SASB se enfoca principalmente en los temas materiales que mayor impacto financiero para las organizaciones.
         .col-md-5

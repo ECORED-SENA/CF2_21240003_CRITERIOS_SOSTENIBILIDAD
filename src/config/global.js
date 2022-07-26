@@ -238,6 +238,51 @@ export default {
   referencias: [
     {
       referencia:
+        'Departamento de Estado de los Estados Unidos, Programa Centroamérica Resiliente (ResCA), The Nature Conservancy. (2019). Guía para integrar la sostenibilidad en las empresas. Schneider Heloísa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ayres, R. (1989). Industrial Metabolism. National Academy Press.',
+      link: '',
+    },
+    {
+      referencia:
+        'Guerrero, G., Reficco, E., & Austin, J. E. (2004). La nueva ruta: alianzas sociales estratégicas. Harvard Business Review, 82 (12), pp. 30-40.',
+      link: '',
+    },
+    {
+      referencia:
+        'Marquis C., A. Klaber, B. Thomason, (2011). B Lab: Building a New Sector of the Economy. HBC 9-411-047, pp.  1 – 32.',
+      link: '',
+    },
+    {
+      referencia:
+        'Nidumolu, R., C.K. Prahalad, and M.R. Rangaswami, (2009). Why Sustainability Is Now the Key Driver of Innovation. Harvard Business Review, Sep 2009, pp. 2 – 9.',
+      link: '',
+    },
+    {
+      referencia:
+        'Pacto Mundial Red Española. (2019). Empresas y derechos humanos: acciones y casos de éxito en el marco de la Agenda 2030. Red Española de Pacto Mundial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodriguez Becerra, M. (2019). Nuestro planeta, nuestro Futuro. Penguin Random House Group Editorial S.A.S.',
+      link: '',
+    },
+    {
+      referencia:
+        'Programa de las Naciones Unidas para el Desarrollo PNUD. (2022). ¿Que son los Objetivos de Desarrollo Sostenible? PNUD. https://www.undp.org/es/sustainable-development-goals#',
+      link: '',
+    },
+    {
+      referencia:
+        'Vanegas, J. A. (2006). ¿Cómo incorporar los criterios y principios de sostenibilidad en el diseño, construcción y gestión de las infraestructuras? Ekonomiaz (63), 88-111.',
+      link: '',
+    },
+    {
+      referencia:
         'Autoridad Nacional de Licencias Ambientales ANLA. (2022). Glosario.  ANLA Autoridad Nacional de Licencias Ambientales.',
       link: 'http://portal.anla.gov.co/subdireccion-evaluacion-y-seguimiento',
     },
@@ -360,7 +405,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diana Carolina Acevedo Barón',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -389,7 +434,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
