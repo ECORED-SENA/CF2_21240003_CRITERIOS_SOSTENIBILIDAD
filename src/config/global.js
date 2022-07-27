@@ -142,21 +142,28 @@ export default {
       referencia:
         'Austin, J. ., y  Reavis, C.  (2004). Starbucks and Conservation International. Harvard Business School Case 303-055.',
       tipo: 'Estudio de caso',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Starbucks.pdf',
     },
     {
       tema: 'Principios y criterios de sostenibilidad',
       referencia:
         'Lobo, I., Reficco, E. y Rueda, A. (2012). Wok: ¿una cadena de restaurantes sostenible? . Centro de aprendizaje centrado en el estudiante, Universidad de los andes.',
       tipo: 'Estudio de caso',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/Caso-wok.pdf',
+    },
+    {
+      tema: 'Objetivos de desarrollo sostenible',
+      referencia:
+        'Red Española Pacto Mundial (2019). Empresas y derechos humanos: acciones y casos de éxito en el marco de la Agenda 2030.',
+      tipo: 'Estudio de caso',
+      descarga: '/downloads/Empresas-y-derechos-humanos.pdf',
     },
     {
       tema: 'Objetivos de desarrollo sostenible',
       referencia:
         'Stichting Global Reporting Initiative (GRI). (2018). GRI 101: FUNDAMENTOS 2016. Documento respecto a los informes de sostenibilidad. Stichting Global Reporting Initiative (GRI).',
       tipo: 'Documento',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/spanish-gri-101-foundation-2016.pdf',
     },
     {
       tema: 'Principios y criterios de sostenibilidad',
