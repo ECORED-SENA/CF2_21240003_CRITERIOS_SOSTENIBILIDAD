@@ -69,7 +69,7 @@
         img.mx-auto.mx-md-0.mb-4.mb-md-0(src="@/assets/curso/temas/tema3/pasos-5.svg" style="max-width: 85px")
         .ps-md-4
           h4.mb-0 Objetivos estratégicos: 
-          p.mb-0 Estos deben ser medibles y alcanzables , basados en el análisis de factores internos y externos de la organización y de las fortalezas y oportunidades.
+          p.mb-0 Estos deben ser medibles y alcanzables, basados en el análisis de factores internos y externos de la organización y de las fortalezas y oportunidades.
 
       .d-flex.flex-wrap.flex-md-nowrap.align-items-end.justify-content-end(data-aos="fade-right")
         .pe-4.me-auto.text-start.order-2.order-md-1

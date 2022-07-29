@@ -12,7 +12,7 @@
     .d-flex.flex-wrap.mb-5
       img.col-lg-5.col-xl-4.m-auto(src="@/assets/curso/temas/tema2/img-1.jpg" data-aos="fade-right")
       .col-lg-7.col-xl-8.ps-lg-3(data-aos="fade-left")
-        p.mb-3.p-3(style="background-color: #DDF8FB") Como consecuencia se han generado cambios irreversibles en los sistemas biofísicos y en los paradigmas sociales de los mercados, los cuales influyen de manera permanente y definitiva en los negocios y en los procesos de desarrollo. Cambios que se acentuaron por la crisis sanitaria y económica generada por la pandemia COVID19, haciendo aún más evidente la necesidad de repensar el desarrollo de los sistemas empresariales, hacia modelos sostenibles.
+        p.mb-3.p-3(style="background-color: #DDF8FB") Como consecuencia se han generado cambios irreversibles en los sistemas biofísicos y en los paradigmas sociales de los mercados, los cuales influyen de manera permanente y definitiva en los negocios y en los procesos de desarrollo. Cambios que se acentuaron por la crisis sanitaria y económica generada por la pandemia COVID-19, haciendo aún más evidente la necesidad de repensar el desarrollo de los sistemas empresariales, hacia modelos sostenibles.
         p.fw-bold Estas tendencias se reflejan en los Objetivos del Desarrollo Sostenible (ODS), como un camino en el cual el desarrollo económico no debe reñir con la prosperidad de las comunidades y los territorios y el uso racional de los recursos naturales. Este acuerdo involucra a todos los actores de la sociedad en el desarrollo de políticas públicas. En el siguiente recurso educativo se podrá revisar al respecto.
     
     TabsC.color-secundario.edit-pestanas.mb-5(data-aos="fade-left")
@@ -53,7 +53,7 @@
                     | Energía.
                   li
                     img(src="@/assets/curso/temas/tema2/check.svg" style="max-width: 14px").me-3
-                    | Medio ambiente conflicto y construcción de paz.
+                    | Medio ambiente, conflicto y construcción de paz.
                   li
                     img(src="@/assets/curso/temas/tema2/check.svg" style="max-width: 14px").me-3
                     | Alimentos y agricultura.

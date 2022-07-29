@@ -85,13 +85,13 @@
         .card.w-100.p-3.pt-5.mb-auto(style="margin-top: -2rem; background-color: #DDF8FB; border: none; border-radius: 20px; height: calc(100% - 60px)")
           p(data-aos="fade-right") #[b Capacidad de respuesta]
             br
-            | Se refiere a las decisiones , acciones y desempeño que la empresa asume para resolver los problemas de las partes interesadas que afectan su desempeño de sostenibilidad.
+            | Se refiere a las decisiones, acciones y desempeño que la empresa asume para resolver los problemas de las partes interesadas que afectan su desempeño de sostenibilidad.
       .col-12.col-md-6.col-lg-4.col-xl-3.d-flex.flex-wrap.justify-content-center.px-md-2.mx-auto(style="margin-bottom: 1rem")
         img(src="@/assets/curso/temas/tema1/img-6-4.svg" style="max-width: 85px; z-index: 1" data-aos="fade")
         .card.w-100.p-3.pt-5.mb-auto(style="margin-top: -2rem; background-color: #DDF8FB; border: none; border-radius: 20px; height: calc(100% - 60px)")
           p(data-aos="fade-right") #[b Impacto]
             br
-            | Es el efecto del comportamiento, el rendimiento y/o los resultados , por parte de los individuos o una organización, en la economía , el medio ambiente, la sociedad, las partes interesadas o la propia organización.
+            | Es el efecto del comportamiento, el rendimiento y/o los resultados, por parte de los individuos o una organización, en la economía, el medio ambiente, la sociedad, las partes interesadas o la propia organización.
     .position-relative
       img(src="@/assets/curso/temas/tema1/img-decorativa-left.svg" style="position: absolute; max-width: 237px; left: -3rem; z-index: 0")
     
@@ -185,7 +185,7 @@
         br
         |La organización #[em Global Reporting Initiative (GRI)], a través de un informe indicó las directrices que se pueden apropiar para complementar la norma ISO 26000 en la elaboración del reporte. Cabe denotar que los indicadores de los estándares GRI se aplican para reportar las temáticas trabajadas en la ISO 26000. Asimismo, #[em Accountability] también ha informado su interés en diseñar una guía aclaratoria de la compatibilidad entre las normas AA1000 e ISO 26000. 
       img.col-xl-6.order-1.order-xl-2.mx-auto.mb-4.mb-xl-0(src="@/assets/curso/temas/tema1/img-10.jpg" data-aos="fade-left" style="max-width: 610px")
-    
+    a
     Separador
 
     .titulo-segundo.color-acento-contenido
@@ -271,7 +271,7 @@
           figure
             img(src='@/assets/curso/temas/tema1/acordeon-2.png')
       
-      .row.col-md-11.mx-auto(titulo="¿Para quá sirve?")
+      .row.col-md-11.mx-auto(titulo="¿Para qué sirve?")
         .col-md-7.mb-4.mb-md-0
           p Permite a las organizaciones identificar qué temas deberían trabajar y reportar, de igual forma les permite a los grupos de interés en particular a los inversionistas reconocer los focos de atención en donde deberían prestar mayor atención cuando analizan por tipo de organización o por la empresa en particular.
         .col-md-5

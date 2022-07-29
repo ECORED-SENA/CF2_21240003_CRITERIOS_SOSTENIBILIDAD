@@ -49,7 +49,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'ISO 26000',
+            titulo: 'ISO 26000:2010',
             hash: 't_1_2',
           },
           {
@@ -170,22 +170,21 @@ export default {
       referencia:
         'UNESCO  (2017). Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos [video]. Youtube.',
       tipo: 'Vídeo',
-      descarga:
-        'https://www.youtube.com/watch?v=MCKH5xk8X-g&ab_channel=UNESCOenespa%C3%B1ol',
+      link: 'https://www.youtube.com/watch?v=MCKH5xk8X-g',
     },
     {
       tema: 'Objetivos de desarrollo sostenible',
       referencia:
         'PNUD (s.f.). ¿Que son los Objetivos de Desarrollo Sostenible? Programa de las Naciones Unidas para el Desarrollo.',
       tipo: 'Página oficial del PNUD',
-      descarga: 'https://www.undp.org/es/sustainable-development-goals',
+      link: 'https://www.undp.org/es/sustainable-development-goals',
     },
     {
       tema: 'Objetivos de desarrollo sostenible',
       referencia:
         'SENA (2021). Agenda 2030. Informe sobre los ODS. [Video]. YouTube.',
       tipo: 'Vídeo',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=vax-YFuICqc&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
     {
@@ -193,7 +192,7 @@ export default {
       referencia:
         'Tecnológico de Monterrey. (2021). Análisis PESTEL para Definir el Plan de Acción de tu Empresa - Tec de Monterrey  [Video]. YouTube.',
       tipo: 'Vídeo',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=R5VOC2A47ms&ab_channel=PosgradosyEducaci%C3%B3nContinua',
     },
     {
@@ -201,7 +200,7 @@ export default {
       referencia:
         'SENA (2021). Análisis DOFA, explicación y detalle en español [Video]. YouTube.',
       tipo: 'Objetivos de desarrollo sostenible',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=84fuGpQeYg0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
   ],
