@@ -148,7 +148,7 @@
       .d-block.mb-4
         h5.mb-0 Figura 7
         span #[em Interrelación entre los ODS y los tres componentes básicos de la sostenibilidad]
-      img.mx-auto.mb-5(src="@/assets/curso/temas/tema2/img-6.jpg" style="max-width: 820px" data-aos="fade-right")
+      img.mx-auto.mb-5(src="@/assets/curso/temas/tema2/img-6.png" style="max-width: 820px" data-aos="fade-right")
       p(data-aos="fade-right") Los diecisiete (17) objetivos de desarrollo sostenible cuentan con metas y objetivos que permiten la recolección de datos y generar evaluaciones comparativas. 
 
     h4.mb-4 Material Complementario

@@ -199,7 +199,7 @@ export default {
       tema: 'Objetivos de desarrollo sostenible',
       referencia:
         'SENA (2021). Análisis DOFA, explicación y detalle en español [Video]. YouTube.',
-      tipo: 'Objetivos de desarrollo sostenible',
+      tipo: 'Vídeo',
       link:
         'https://www.youtube.com/watch?v=84fuGpQeYg0&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
     },
@@ -290,7 +290,8 @@ export default {
     {
       referencia:
         'Autoridad Nacional de Licencias Ambientales ANLA. (2022). Glosario.  ANLA Autoridad Nacional de Licencias Ambientales.',
-      link: 'http://portal.anla.gov.co/subdireccion-evaluacion-y-seguimiento',
+      link:
+        'https://www.anla.gov.co/proyectos-anla/196-proyectos-transformacionales/seguimiento-de-licencias-ambientales',
     },
     {
       referencia:
@@ -342,11 +343,6 @@ export default {
       referencia:
         'The International Institute for Sustainable Development IISD. (2022). The International Institute for Sustainable Development IISD.',
       link: 'https://www.iisd.org/',
-    },
-    {
-      referencia:
-        'Value Reporting Foundation SASB Standards. (2022). Value Reporting Foundation SASB Standards.',
-      link: 'https://www.sasb.org/',
     },
   ],
   creditos: {
