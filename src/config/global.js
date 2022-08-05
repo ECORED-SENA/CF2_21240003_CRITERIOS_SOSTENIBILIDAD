@@ -279,8 +279,8 @@ export default {
     },
     {
       referencia:
-        'Programa de las Naciones Unidas para el Desarrollo PNUD. (2022). ¿Que son los Objetivos de Desarrollo Sostenible? PNUD. https://www.undp.org/es/sustainable-development-goals#',
-      link: '',
+        'Programa de las Naciones Unidas para el Desarrollo PNUD. (2022). ¿Que son los Objetivos de Desarrollo Sostenible? PNUD.',
+      link: 'https://www.undp.org/es/sustainable-development-goals#',
     },
     {
       referencia:
